@@ -1,1 +1,1 @@
-# danielpeterson.github.io
+# IQ Smart
