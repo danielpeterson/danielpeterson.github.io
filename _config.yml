@@ -1,1 +1,8 @@
+title: IQ Smart
 remote_theme: chesterhow/tale
+
+
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:title:output_ext
